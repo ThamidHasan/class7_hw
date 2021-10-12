@@ -1,0 +1,60 @@
+.header{
+	height: 60px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+}
+.section1{
+	width: 60%;
+	height: 100px;
+	float: left;
+	background-color: pink;
+}
+.section2{
+	width: 40%;
+	height: 100px;
+	float: right;
+	background-color: blueviolet;
+}
+.con{
+	overflow: hidden;
+}
+.ful-service{
+	min-height: 100px;
+	width: 33.33%;
+	float: left;
+}
+.section3{
+	background-color: blue;
+}
+.section4{
+	background-color: orange;
+}
+.section5{
+	background-color: darkcyan;
+}
+.cont{
+	overflow: hidden;
+}
+.blog{
+	min-height: 100px;
+	width: 25%;
+	float: left;
+}
+.section6{
+	background-color: red;
+}
+.section7{
+	background-color: yellowgreen;
+}
+.section8{
+	background-color: brown;
+}
+.section9{
+	background-color: yellow;
+}
+.footer{
+	min-height: 60px;
+	background-color: mediumorchid;
+}
